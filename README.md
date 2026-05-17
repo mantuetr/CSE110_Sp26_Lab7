@@ -1,4 +1,4 @@
-# Lab7: Lisa Tran and Hien Tran
+# Lab7 - Lisa Tran and Hien Tran
 
 1. Within a Github action that runs whenever code is pushed. Because it is an 
    automated tests so it will test the code before merging. And, it can prevent
